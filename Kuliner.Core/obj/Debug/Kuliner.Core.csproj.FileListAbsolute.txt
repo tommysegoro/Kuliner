@@ -1,0 +1,10 @@
+D:\Git\Kuliner\Kuliner.Core\bin\Debug\Kuliner.Core.dll
+D:\Git\Kuliner\Kuliner.Core\bin\Debug\Kuliner.Core.pdb
+D:\Git\Kuliner\Kuliner.Core\obj\Debug\Kuliner.Core.csprojResolveAssemblyReference.cache
+D:\Git\Kuliner\Kuliner.Core\obj\Debug\Kuliner.Core.dll
+D:\Git\Kuliner\Kuliner.Core\obj\Debug\Kuliner.Core.pdb
+D:\Git\Kuliner\Kuliner.Core\bin\Debug\Kuliner.Core.dll.config
+D:\Git\Kuliner\Kuliner.Core\bin\Debug\EntityFramework.dll
+D:\Git\Kuliner\Kuliner.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\Kuliner\Kuliner.Core\bin\Debug\EntityFramework.xml
+D:\Git\Kuliner\Kuliner.Core\bin\Debug\EntityFramework.SqlServer.xml
